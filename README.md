@@ -37,8 +37,8 @@ project/
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/proyecto-base-node.git
-   cd proyecto-base-node
+   git clone https://github.com/LeoPavvv/Template-Node
+   cd Template-Node
    ```
 
 2. Instala las dependencias:
@@ -98,12 +98,4 @@ Este proyecto base incluye:
    git push origin feature/nueva-funcionalidad
    ```
 5. Abre un pull request en este repositorio.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
-
----
-
-¡Listo! Ahora puedes usar esta estructura para comenzar a desarrollar tu aplicación.
 
